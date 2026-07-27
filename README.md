@@ -38,7 +38,8 @@
 
 <!-- ردیف سوم: ۳ تصویر داشبوردهای تکمیلی -->
 <p align="center">
-  <img src="dashold2.png" width="31%" alt="داشبورد قدیمی ۲">
+   <img src="dashdstmozd.png" width="31%" alt="داشبورد دستمزد">
   <img src="oddash.png" width="31%" alt="داشبورد سازمان">
-  <img src="dashdstmozd.png" width="31%" alt="داشبورد دستمزد">
+  <img src="dashold2.png" width="31%" alt="داشبورد قدیمی ۲">
+ 
 </p>
