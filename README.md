@@ -20,5 +20,5 @@
 
 <!-- ردیف اول: ۳ تصویر -->
 <p align="center">
-  < https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/main/p1.png" width="31%" alt"تصویر ۲" />
-
+  <img src="p1.png" width="31%" alt="تصویر ۱">
+</p>
