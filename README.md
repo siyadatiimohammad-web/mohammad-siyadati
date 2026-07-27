@@ -30,6 +30,7 @@
   <img src="p4.png" width="31%" alt="تصویر ۴">
   <img src="p5.png" width="31%" alt="تصویر ۵">
   <img src="p6.png" width="31%" alt="تصویر ۶">
+   <img src="dash.png" width="31%" alt="تصویر ۶">
 </p>
 
 ---
