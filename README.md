@@ -20,8 +20,8 @@
 
 <!-- ردیف اول: ۳ تصویر -->
 <p align="center">
-  < P 1.png" width="31%" alt"تصویر ۱" />
-  < P 2.png " width="31%" alt"تصویر ۲" />
+  <img src="./images/photo1.png" width="31%" alt="تصویر ۱" />
+  <img src=" https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/main/P%202.png " width="31%" alt="تصویر ۲" />
   <img src="./images/photo3.png" width="31%" alt="تصویر ۳" />
 </p>
 
