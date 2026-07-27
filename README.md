@@ -18,7 +18,26 @@
 
 ## 📸 تصاویر و نمای کلی داشبوردها
 
-<!-- ردیف اول: ۳ تصویر -->
+<!-- ردیف اول: ۳ تصویر نخست -->
 <p align="center">
   <img src="p1.png" width="31%" alt="تصویر ۱">
+  <img src="p2.png" width="31%" alt="تصویر ۲">
+  <img src="p3.png" width="31%" alt="تصویر ۳">
+</p>
+
+<!-- ردیف دوم: ۳ تصویر دوم -->
+<p align="center">
+  <img src="p4.png" width="31%" alt="تصویر ۴">
+  <img src="p5.png" width="31%" alt="تصویر ۵">
+  <img src="p6.png" width="31%" alt="تصویر ۶">
+</p>
+
+---
+
+## 📊 سایر داشبوردها
+
+<!-- ردیف سوم: دو تصویر باقی‌مانده -->
+<p align="center">
+  <img src="dashold2.png" width="48%" alt="داشبورد قدیمی ۲">
+  <img src="oddash.png" width="48%" alt="داشبورد سازمان">
 </p>
