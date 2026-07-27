@@ -30,7 +30,7 @@
   <img src="p4.png" width="31%" alt="تصویر ۴">
   <img src="p5.png" width="31%" alt="تصویر ۵">
   <img src="p6.png" width="31%" alt="تصویر ۶">
-   <img src="dash.png" width="31%" alt="تصویر ۶">
+
 </p>
 
 ---
@@ -42,5 +42,5 @@
    <img src="dashdstmozd.png" width="31%" alt="داشبورد دستمزد">
   <img src="oddash.png" width="31%" alt="داشبورد سازمان">
   <img src="dashold2.png" width="31%" alt="داشبورد قدیمی ۲">
- 
+    <img src="dash.png" width="31%" alt="تصویر ۶">
 </p>
