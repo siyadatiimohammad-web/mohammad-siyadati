@@ -20,7 +20,7 @@
 
 <!-- ردیف اول: ۳ تصویر -->
 <p align="center">
-  <img src="./images/photo1.png" width="31%" alt="تصویر ۱" />
+  <img src=" https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/d8ddebc4dbca83993e3622efeb2cf85e6526107f/p1.png" width="31%" alt="تصویر ۱" />
   <img src=" https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/main/P%202.png " width="31%" alt="تصویر ۲" />
   <img src="./images/photo3.png" width="31%" alt="تصویر ۳" />
 </p>
