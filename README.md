@@ -20,22 +20,5 @@
 
 <!-- ردیف اول: ۳ تصویر -->
 <p align="center">
-  <img src=" https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/d8ddebc4dbca83993e3622efeb2cf85e6526107f/p1.png" width="31%" alt="تصویر ۱" />
-  <img src=" https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/main/P%202.png " width="31%" alt="تصویر ۲" />
-  <img src="./images/photo3.png" width="31%" alt="تصویر ۳" />
-</p>
+  < https://github.com/siyadatiimohammad-web/mohammad-siyadati/blob/main/p1.png" width="31%" alt"تصویر ۲" />
 
-<!-- ردیف دوم: ۳ تصویر -->
-<p align="center">
-  <img src="./images/photo4.png" width="31%" alt="تصویر ۴" />
-  <img src="./images/photo5.png" width="31%" alt="تصویر ۵" />
-  <img src="./images/photo6.png" width="31%" alt="تصویر ۶" />
-</p>
-
-<!-- ردیف سوم: ۴ تصویر -->
-<p align="center">
-  <img src="./images/photo7.png" width="23%" alt="تصویر ۷" />
-  <img src="./images/photo8.png" width="23%" alt="تصویر ۸" />
-  <img src="./images/photo9.png" width="23%" alt="تصویر ۹" />
-  <img src="./images/photo10.png" width="23%" alt="تصویر ۱۰" />
-</p>
