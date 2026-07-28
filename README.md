@@ -21,7 +21,7 @@
 ▶️ **[برای مشاهده ویدئوی نمونه کار کلیک کنید](https://aparat.com/v/qft6mi2)**
 
 <p align="center">
-  <img src="video-banner.png" width="85%" alt="پیش‌نمایش ویدئوی معرفی داشبورد">
+  <img src="p1.png" width="85%" alt="پیش‌نمایش ویدئوی معرفی داشبورد">
 </p>
 
 ---
