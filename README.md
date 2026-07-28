@@ -10,10 +10,8 @@
 
 * 📱 **شماره تماس:** 09380707051
 * 📧 **ایمیل:** siyadatii.mohammad@gmail.com
-* 🔗 **لینکدین:** [[Mohammad Siyadati](https://www.linkedin.com/in/mohammad-siyadati)
-](https://www.linkedin.com/in/mohammad-siyadati-507a171a0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
----
 
+* 🔗 **لینکدین:** [Mohammad Siyadati]( https://www.linkedin.com/in/mohammad-siyadati-507a171a0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ## 🎥 ویدئوی معرفی و دموی داشبورد Power BI
 
 جهت مشاهده دموی تعاملی و نحوه کارکرد داشبورد جامع منابع انسانی، ویدئوی زیر را مشاهده نمایید:
